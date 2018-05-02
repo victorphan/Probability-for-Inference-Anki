@@ -502,6 +502,18 @@
             "guid": "K626a.R9!V", 
             "note_model_uuid": "24970f59-4dcb-11e8-ab46-a45e60d72fab", 
             "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "test {{c1::card}}", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "B_cXCgz~1x", 
+            "note_model_uuid": "24970f59-4dcb-11e8-ab46-a45e60d72fab", 
+            "tags": []
         }
     ]
 }

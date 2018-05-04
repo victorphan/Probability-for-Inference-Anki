@@ -100,9 +100,9 @@
         "latex-0680e6b9861ea64ac026b06192167f4e1eee5d57.png", 
         "latex-2776209b8f52be50790fc903e1fc8e540d96d69e.png", 
         "latex-038e25d693e971c4354cd34496894aba152a3f04.png", 
-        "latex-e09c341d60f6073d4b309afb09085b5a53b5c6c8.png", 
         "latex-12a01551c2940d1e8142fdfbf9f8bf65569c02e3.png", 
         "latex-a73d51fb64fede8990e0566927d6379af5aa3f70.png", 
+        "latex-01e25c55aaaf5fc4d383163f6d5cd2ce77450a64.png", 
         "latex-37fe852fedf5b918f41649b27a58c830352b76c3.png", 
         "latex-ad28c83c99a8fd0dd2e2e594c9d02ee532765a0a.png", 
         "latex-39bc40429d0d2db3121e48fdce8edaab340bd2a6.png", 
@@ -137,7 +137,7 @@
         {
             "__type__": "NoteModel", 
             "crowdanki_uuid": "24970f59-4dcb-11e8-ab46-a45e60d72fab", 
-            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n\n.cloze {\n font-weight: bold;\n color: blue;\n}\n.nightMode .cloze {\n color: lightblue;\n}", 
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n\n.cloze {\n font-weight: bold;\n color: blue;\n}\n.nightMode .cloze {\n color: lightblue;\n}\n\n.latex{\n zoom:9%;\n}\n\n}", 
             "flds": [
                 {
                     "font": "Arial", 
@@ -160,7 +160,7 @@
             ], 
             "latexPost": "\\end{document}", 
             "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n", 
-            "name": "Cloze math img", 
+            "name": "Cloze LaTeX", 
             "sortf": 0, 
             "tags": [], 
             "tmpls": [
@@ -435,7 +435,7 @@
             "__type__": "Note", 
             "data": "", 
             "fields": [
-                "An estimator&nbsp;[$]\\theta_0^* = \\theta_0^* (X)[/$] from a class&nbsp;[$]\\mathcal{K}[/$] of estimators of&nbsp;[$]\\theta[/$] is called <i>efficient in&nbsp;</i>[$]\\mathcal{K}[/$] if,&nbsp;{{c1::for any&nbsp;[$]\\theta_0^* \\in \\mathcal{K}[/$],<div>[$]E_\\theta(\\theta_0^* - \\theta)^2 \\leq E_\\theta (\\theta^* - \\theta)^2, \\quad \\forall \\theta \\in Theta.[/$]</div>}}", 
+                "An estimator&nbsp;[$]\\theta_0^* = \\theta_0^* (X)[/$] from a class&nbsp;[$]\\mathcal{K}[/$] of estimators of&nbsp;[$]\\theta[/$] is called <i>efficient in&nbsp;</i>[$]\\mathcal{K}[/$] if,&nbsp;{{c1::for any&nbsp;[$]\\theta_0^* \\in \\mathcal{K}[/$],<div>[$]E_\\theta(\\theta_0^* - \\theta)^2 \\leq E_\\theta (\\theta^* - \\theta)^2, \\quad \\forall \\theta \\in \\Theta.[/$]</div>}}", 
                 ""
             ], 
             "flags": 0, 
@@ -507,11 +507,11 @@
             "__type__": "Note", 
             "data": "", 
             "fields": [
-                "test {{c1::card}}", 
+                "<div>Symmetric Cryptography</div><div>{{c2::–&nbsp;Same key is used for encryption and decryption}}</div><div>Asymmetric Cryptography (Public Key Crypto)</div><div>{{c1::–&nbsp;Two keys, encrypt with one, decrypt with the other}}</div>", 
                 ""
             ], 
             "flags": 0, 
-            "guid": "B_cXCgz~1x", 
+            "guid": "IF9rW7z_X6", 
             "note_model_uuid": "24970f59-4dcb-11e8-ab46-a45e60d72fab", 
             "tags": []
         }

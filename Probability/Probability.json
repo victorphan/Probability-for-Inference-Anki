@@ -177,7 +177,7 @@
         {
             "__type__": "NoteModel", 
             "crowdanki_uuid": "9b31b9eb-504d-11e8-900c-4a00016942a0", 
-            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n\n.cloze {\n font-weight: bold;\n color: blue;\n}\n.nightMode .cloze {\n color: lightblue;\n}", 
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n\n.cloze {\n font-weight: bold;\n color: blue;\n}\n.nightMode .cloze {\n color: lightblue;\n}\n\n.latex{\n zoom:9%;\n}", 
             "flds": [
                 {
                     "font": "Arial", 

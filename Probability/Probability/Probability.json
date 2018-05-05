@@ -1,0 +1,715 @@
+{
+    "__type__": "Deck", 
+    "children": [], 
+    "crowdanki_uuid": "24946a47-4dcb-11e8-b320-a45e60d72fab", 
+    "deck_config_uuid": "2496b7cf-4dcb-11e8-ab4e-a45e60d72fab", 
+    "deck_configurations": [
+        {
+            "__type__": "DeckConfig", 
+            "autoplay": true, 
+            "crowdanki_uuid": "2496b7cf-4dcb-11e8-ab4e-a45e60d72fab", 
+            "dyn": false, 
+            "lapse": {
+                "delays": [
+                    10
+                ], 
+                "leechAction": 0, 
+                "leechFails": 8, 
+                "minInt": 1, 
+                "mult": 0.0
+            }, 
+            "maxTaken": 60, 
+            "name": "Default", 
+            "new": {
+                "bury": false, 
+                "delays": [
+                    1, 
+                    10
+                ], 
+                "initialFactor": 2500, 
+                "ints": [
+                    1, 
+                    4, 
+                    7
+                ], 
+                "order": 1, 
+                "perDay": 20, 
+                "separate": true
+            }, 
+            "replayq": true, 
+            "rev": {
+                "bury": false, 
+                "ease4": 1.3, 
+                "fuzz": 0.05, 
+                "ivlFct": 1.0, 
+                "maxIvl": 36500, 
+                "minSpace": 1, 
+                "perDay": 200
+            }, 
+            "timer": 0
+        }
+    ], 
+    "desc": "", 
+    "dyn": 0, 
+    "extendNew": 10, 
+    "extendRev": 50, 
+    "media_files": [
+        "latex-726ccfb2c06056fec2700ac077d48c3bc25862f2.png", 
+        "latex-edc0f561ca6a4aaaddbb5a900380b77148fb18b9.png", 
+        "latex-39bc40429d0d2db3121e48fdce8edaab340bd2a6.png", 
+        "latex-57bbe48937b0012fda8febcd9cb95c0883045e10.png", 
+        "latex-6feaa054644308841e840764e3979e51117d062e.png", 
+        "latex-26366612747c585b1dcd0f3254faee230cd307e0.png", 
+        "latex-8d9c8cd6e710c3261b174f7c5d40bb22846bd4c7.png", 
+        "latex-d9d2dead092a1ad5ed873f57e576eba2deaa10d6.png", 
+        "latex-fdb331c2f8b3cfd0ff994be5b6698a8e4a2d3b78.png", 
+        "latex-30c7ade533ca50450805ef550f483bbbf3cd74b8.png", 
+        "latex-611ade1538e416642f0878c8ad5ddf8ef4ff1500.png", 
+        "latex-927a69f73955e70ee4843bb9d8dbddde6696a43f.png", 
+        "latex-0430b47909ada3d694e685bed6014baf7ed462bd.png", 
+        "latex-698b0c93f32175513695cd8d2ab9a48964bd2e45.png", 
+        "latex-b8cc4443980d71acf57ff1fdb261868fe1bbbda1.png", 
+        "latex-63405adfa323cd12386536930115984575a36cf9.png", 
+        "latex-3116ceef0238d203dde1e0817300817519f790fd.png", 
+        "latex-cd17ba8e9302e4c79d6be64c6e1a253fa029a472.png", 
+        "latex-36e1f0b25aa559de277275d77546a98f19c949ef.png", 
+        "latex-378d0792d9da0008a7c60cd534103bdf9de741c8.png", 
+        "latex-8e7483b6679c96d81b1985d4d1d8f3eae486e552.png", 
+        "latex-d316b6cf279abd8002c569dbb69eb95b493bbb14.png", 
+        "latex-d08f2fe93201010c9e277479c43565d8b32639a4.png", 
+        "latex-49168d7debda713dcfa009485b3513a5cfc035f5.png", 
+        "latex-f40c8273f0be47dee3d2671012eef83efae27516.png", 
+        "latex-e0d2bf360290fd61d1c1557e763f2622363b3d35.png", 
+        "latex-c280c0f20aeb8cc777dd073626c842a6ddba996b.png", 
+        "latex-52e8ed7a3ba22130ad3984eb2cd413406475a689.png", 
+        "latex-07c3de5211dc08b13546363f8b139700a16dd963.png", 
+        "latex-d75b360ba50e2e835d8b4b54189a95a4106662a2.png", 
+        "latex-e1061fe6bf28f286d31da22c0b3fc41648f4f31b.png", 
+        "latex-35a56bb9407b66cfca3e85f3ad8ace31e2b7a89c.png", 
+        "latex-91a81d3c6ed8018759cbd1e3558f21273be9a480.png", 
+        "latex-a5baee7c5a990ab1c5ed2d3e1a5aa54221224a58.png", 
+        "latex-81afd4d9ed1d8aaec4e1de264a387f00119d9008.png", 
+        "latex-2e2e9df23c51d99b8c6792660a8a4e771f0e044a.png", 
+        "latex-7405183beb13ad6c4d0917fc5094ef60b0d8dc4a.png", 
+        "latex-0dc31c3c0a172a4c3bd2b971375a806c4e10ec9f.png", 
+        "latex-906fddead65545297c74bbc2ca83cd01f3f9ecc9.png", 
+        "latex-8c5f8b22bd323eb311efea3fec3bba665cfe7627.png", 
+        "latex-c1096b974265b67279a3fd5d80c67aa261d955e3.png", 
+        "latex-fe6c5e21ca456902430cb07672329938be69ba10.png", 
+        "latex-6be80908d1e1699af9c65d1fe027153274f590a9.png", 
+        "latex-70772e0cc19e70ac36fb185ed31999a4ffabc175.png", 
+        "latex-1fa22bb7c9d1dd841d902a340f981aa1f10ddd2f.png", 
+        "latex-5d3788371f99e11555f91c356bf69755e347efd0.png", 
+        "latex-4223fb3daf2f58119b1c7c9615cd10b69afc8175.png", 
+        "latex-292f7c7afadbf996ef82c871b3ed6faa8106a35d.png", 
+        "latex-fdcde49eadd5378ec975e7e8ccdfd2359bc91cb8.png", 
+        "latex-bb2c93730dbb48558bb3c4738c956c4e8f816437.png", 
+        "latex-f7e58808226e2b75bbf291c4f55173b1f2ff50c3.png", 
+        "latex-65b73befd984cb69593825e12ee6ccca0ba992b3.png", 
+        "latex-ba285e17d91fe83a9da78eae5b86420732889be7.png", 
+        "latex-02184df2515212fdb60310067e7e3110d359138d.png", 
+        "latex-ce58e4af225c93d08606c26554caaa5ae32edeba.png", 
+        "latex-3cd77111cbaaa6678c53edcf2c46b1a0d55646e5.png", 
+        "latex-e2cd148226deb03525a60e485adc7a08ac4c97be.png", 
+        "latex-311cabda3a9b09f0dde217303ca9d1cd9201dcf6.png", 
+        "latex-68d8d2484855d5c03293a752a8fff5ad8f469f3f.png", 
+        "latex-2554b6496c3b678897e9b060ef00aa9f0a7d7ece.png", 
+        "latex-940004277a9ab475d18c1264eda05d9e64554b40.png", 
+        "latex-54504945d23344922cedd070d959ea7016642f6b.png", 
+        "latex-a5d47d5f91653529332a16a59503c6226ca87896.png", 
+        "latex-5e4f6e75b521421a40a0f2f17dbd04313cd0c018.png", 
+        "latex-d5eb8726a34932d28103ce7ce17456421222603f.png", 
+        "latex-a9d5d6fdd9d9241993574c879f1d6472326cc0a3.png", 
+        "latex-53fb763d3b5e70439c3c2f095e756e90ea5d6a5a.png", 
+        "latex-3ad5f8270137e8f44afedcb4608419ead4f626f5.png", 
+        "latex-fa35d9fc104207e09a712110ac81612c5b279a6c.png", 
+        "latex-0680e6b9861ea64ac026b06192167f4e1eee5d57.png", 
+        "latex-858a2e1e46151edba359b4fb622fc402c5caeb0a.png", 
+        "latex-48bb97d434ed10923b31178054fc265df6e2908b.png", 
+        "latex-2bf82faaa2e7f453fc9a6df620bde24f5741fcc1.png", 
+        "latex-2776209b8f52be50790fc903e1fc8e540d96d69e.png", 
+        "latex-1541908498df8e1380f689ae9f807a4490d401c5.png", 
+        "latex-f357237b6902d009412303c31ad6ad6a709bcbb6.png", 
+        "latex-12a01551c2940d1e8142fdfbf9f8bf65569c02e3.png", 
+        "latex-a73d51fb64fede8990e0566927d6379af5aa3f70.png", 
+        "latex-01e25c55aaaf5fc4d383163f6d5cd2ce77450a64.png", 
+        "latex-37fe852fedf5b918f41649b27a58c830352b76c3.png", 
+        "latex-ad28c83c99a8fd0dd2e2e594c9d02ee532765a0a.png", 
+        "latex-5508d372720864f767c224e3b9c65d7fc2f7b184.png", 
+        "latex-d4c603ab7e7bdad9927e914153d99f540d8a8593.png", 
+        "latex-fef2206a84d33a2ac5f29ddacfa0a581c8fcf267.png", 
+        "latex-74d9b71f24bec81e0e4411b64e51c7ae415fb838.png", 
+        "latex-894042d5249e06b847ec1cee0debfb27265a5624.png", 
+        "latex-9ce18912d3c2f81d16a4eaec3960137f9aa21254.png", 
+        "latex-2d8c833ed800824727cd7bd2fb9de1a12ad7e674.png", 
+        "latex-655993f6ae78dbd0febcfe0d653494e6abff653f.png", 
+        "latex-1f745cf4286f88b236750e1e9a8abe3dacd9dc39.png", 
+        "latex-2af022e5c8b6a45d147978a3b6714d1dab3d2a30.png", 
+        "latex-170ea5447d02d41f7ef4786220e7c5349d8931af.png", 
+        "latex-921aade3100afbc11d0d13f71cdd7e68d83ad52e.png", 
+        "latex-e4ede6b052a805f258376c7298cf6d792d994b68.png", 
+        "latex-2d0581963f4dfd54d4d63727c762a5f69cf76ee3.png", 
+        "latex-038e25d693e971c4354cd34496894aba152a3f04.png", 
+        "latex-0423e0dc87a28321e41f064e34492121a93b1c22.png", 
+        "latex-6a47ca0fe7cb276abc022af6ac88ddae1a9d6894.png", 
+        "latex-81a5687a5581cefcfadaeb52159bb9810e1c19c1.png", 
+        "latex-8157a286ae5cf7a7e2e6b4848a1a3b2777c15140.png", 
+        "latex-d3deeefa3e44b37c76149c4246c55ed20e2d5159.png", 
+        "latex-e5c001f7c8f92dedf816c01e000ad8612cec5f7c.png", 
+        "latex-9e2b196e9b7e57d1ec99f6534c581ea9759d2170.png", 
+        "latex-11983f155737dc5bf56e98ab8a1909773f70395b.png", 
+        "latex-d0720fe089844e2ef9ced9bd91140053bb4f7153.png", 
+        "latex-d85901bcafca1f7971d8ee16af40d1792d05c796.png", 
+        "latex-931d40ac9172b29170ca53dc7f3f677c1f256e7d.png", 
+        "latex-9bd4489e821eca95b542fe03821d12b641b13dbe.png", 
+        "latex-409182f8fba2076128e44a77ba979455c097fccb.png", 
+        "latex-a055f405829e64a3b70253ab67cb45ed6ed5bb29.png", 
+        "latex-fa6fd05ed7ee7042a104b72e5894ec052b40332f.png", 
+        "latex-e723a49d4354b46b77511e14fd5eb7b52a30a5a3.png", 
+        "latex-beccfe1de1c7b10d006116a212fff0bd720c6f05.png", 
+        "latex-a27c5074d8bb51a4a783e274b06c1cfa165f983b.png", 
+        "latex-d844766613975bc2d5a65b774c0f22ba8e204bbe.png", 
+        "latex-a321d1b883ba985b1f59ca076beaaf17aa8ab06c.png"
+    ], 
+    "mid": "1524795965749", 
+    "name": "Probability", 
+    "note_models": [
+        {
+            "__type__": "NoteModel", 
+            "crowdanki_uuid": "9b31b9eb-504d-11e8-900c-4a00016942a0", 
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n\n.cloze {\n font-weight: bold;\n color: blue;\n}\n.nightMode .cloze {\n color: lightblue;\n}", 
+            "flds": [
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Text", 
+                    "ord": 0, 
+                    "rtl": false, 
+                    "size": 20, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Extra", 
+                    "ord": 1, 
+                    "rtl": false, 
+                    "size": 20, 
+                    "sticky": false
+                }
+            ], 
+            "latexPost": "\\end{document}", 
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n", 
+            "name": "Cloze", 
+            "sortf": 0, 
+            "tags": [], 
+            "tmpls": [
+                {
+                    "afmt": "{{cloze:Text}}<br>\n{{Extra}}", 
+                    "bafmt": "", 
+                    "bqfmt": "", 
+                    "did": null, 
+                    "name": "Cloze", 
+                    "ord": 0, 
+                    "qfmt": "{{cloze:Text}}"
+                }
+            ], 
+            "type": 1, 
+            "vers": []
+        }
+    ], 
+    "notes": [
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "{{c1::The sequence [$](X_n)[/$] converges to&nbsp;[$]X[/$] <i>almost surely</i>,}} if {{c2::[$]P(\\omega : X_n(\\omega) \\to X(\\omega)) = 1[/$].}}", 
+                "Pointwise convergence on a set of probability 1."
+            ], 
+            "flags": 0, 
+            "guid": "lH{WrP)w7:", 
+            "note_model_uuid": "9b31b9eb-504d-11e8-900c-4a00016942a0", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "{{c1::The sequence&nbsp;[$](X_n)[/$] converges to&nbsp;[$]X[/$] <i>in probability</i>,}} if {{c2::[$$]\\lim_{n \\to \\infty}P(\\lvert X_n - X \\rvert &gt; \\varepsilon) = 0 \\quad \\forall \\varepsilon &gt; 0[/$$].}}", 
+                "Thm [3.5]"
+            ], 
+            "flags": 0, 
+            "guid": "yJ-0]I1j7j", 
+            "note_model_uuid": "9b31b9eb-504d-11e8-900c-4a00016942a0", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "{{c2::RVs&nbsp;[$]X_1, \\ldots, X_n[/$] are called <i>independent</i>}}&nbsp;if,&nbsp;[$]\\forall B_1, \\ldots, B_n \\in \\mathcal{B}(\\mathbb{R})[/$],<div>{{c1::[$]P(X_1 \\in B_1, \\ldots, X_n \\in B_n) = \\prod_{j=1}^n P(X_j \\in B_j).[/$]}}</div>", 
+                "Def [3.1]"
+            ], 
+            "flags": 0, 
+            "guid": "kZe{h,tdnu", 
+            "note_model_uuid": "9b31b9eb-504d-11e8-900c-4a00016942a0", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "{{c4::RVs&nbsp;[$]X_1, \\ldots, X_n[/$] are called&nbsp;<i>independent</i>}}&nbsp;iff,&nbsp;[$]\\forall t_1, \\ldots, t_n \\in \\mathbb{R}[/$],<div>{{c3::[$]F_{X_1,\\ldots,X_n} (t_1, \\ldots, t_n) = \\prod_{j=1}^n F_{X_j} (t_j).[/$]}}</div>", 
+                "Thm [3.3]"
+            ], 
+            "flags": 0, 
+            "guid": "wZ:]H]e34A", 
+            "note_model_uuid": "9b31b9eb-504d-11e8-900c-4a00016942a0", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "{{c1::Discrete RVs&nbsp;[$]X_1, \\ldots, X_n[/$] are <i>independent</i>}}&nbsp;iff,&nbsp;[$]\\forall t_1, \\ldots, t_n \\in \\mathbb{R}[/$],<div>{{c2::[$]P(X_1 = t_1, \\ldots, X_n = t_n) = \\prod_{j=1}^n P(X_j = t_j).[/$]}}</div>", 
+                "Thm [3.4]"
+            ], 
+            "flags": 0, 
+            "guid": "mE.o9%/}rU", 
+            "note_model_uuid": "9b31b9eb-504d-11e8-900c-4a00016942a0", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "{{c2::AC RVs&nbsp;[$]X_1, \\ldots, X_n[/$] are <i>independent</i>}}&nbsp;iff,&nbsp;[$]\\forall t_1, \\ldots, t_n \\in \\mathbb{R}[/$],<div>{{c1::[$]f_{X_1, \\ldots, X_n} (t_1, \\ldots, t_n) = \\prod_{j=1}^n f_{X_j} (t_j).[/$]}}</div>", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "j5fp|3uS/n", 
+            "note_model_uuid": "9b31b9eb-504d-11e8-900c-4a00016942a0", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Events&nbsp;[$]A_1, \\ldots, A_n[/$] are called <i>independent</i>&nbsp;if {{c1::their indicators are independent RVs}}.", 
+                "Def [3.19]"
+            ], 
+            "flags": 0, 
+            "guid": "lhp(aKuYGa", 
+            "note_model_uuid": "9b31b9eb-504d-11e8-900c-4a00016942a0", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "If&nbsp;{{c2::[$]\\sum_{n=1}^\\infty P(A_n) &lt; \\infty[/$]}}, then&nbsp;{{c1::[$]P(A_n, \\textrm{i.o.}) = 0[/$]}}.", 
+                "Borel-Cantelli Lemma [Thm 1.27]"
+            ], 
+            "flags": 0, 
+            "guid": "wUc4So<2UC", 
+            "note_model_uuid": "9b31b9eb-504d-11e8-900c-4a00016942a0", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "An RV is a function&nbsp;{{c1::[$]X=X(\\omega): \\Omega \\to \\mathbb{R}[/$] s.t., for any&nbsp;[$]B \\in \\mathcal{B} (\\mathbb{R})[/$],<div>[$]X^{-1}(B) := \\{\\omega \\in \\Omega: X(\\omega) \\in B\\} \\in \\mathcal{F}[/$].</div>}}", 
+                "Def [2.3]. Such functions are called <i>measurable</i>; shorthand: [$]\\{X \\in B\\}[/$]."
+            ], 
+            "flags": 0, 
+            "guid": "q}5<$LuX[k", 
+            "note_model_uuid": "9b31b9eb-504d-11e8-900c-4a00016942a0", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Given an RV&nbsp;[$]X[/$],&nbsp;{{c1::[$]\\sigma(X) := \\{X^{-1} (B): B \\in \\mathcal{B} (\\mathbb{R})\\}[/$]}} is a&nbsp;[$]\\sigma[/$]-algebra on&nbsp;[$]\\Omega[/$] which is called the&nbsp;[$]\\sigma[/$]-algebra generated by the RV&nbsp;[$]X[/$].", 
+                "Prpn [2.9]"
+            ], 
+            "flags": 0, 
+            "guid": "ozNy<_)@gj", 
+            "note_model_uuid": "9b31b9eb-504d-11e8-900c-4a00016942a0", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "If&nbsp;[$]X[/$] is an RV,&nbsp;[$]g[/$] an increasing &amp; continuous function on&nbsp;[$]\\mathbb{R}[/$], with inverse&nbsp;[$]h:=g^{-1}[/$], then the RV&nbsp;[$]Y:=g(X)[/$] has the DF<div>{{c1::[$]F_Y (t) = F_X (h(t)).[/$]}}</div>", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "MQl0e2lGUE", 
+            "note_model_uuid": "9b31b9eb-504d-11e8-900c-4a00016942a0", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "If&nbsp;[$]X[/$] is AC and&nbsp;[$]g[/$] is continuously diff'ble on an open set&nbsp;[$]U \\subset \\mathbb{R}[/$] s.t.&nbsp;[$]P(X \\in U) = 1[/$] and [$]h:=g^{-1}[/$], then&nbsp;[$]Y=g(X)[/$] is AC, with the density&nbsp;{{c1::[$]f_Y(y) = f_X(h(y)) \\lvert h'(y) \\rvert[/$]}}.", 
+                "Thm [2.41]. This allows for decreasing&nbsp;[$]g[/$]."
+            ], 
+            "flags": 0, 
+            "guid": "rt.h6[}Q[h", 
+            "note_model_uuid": "9b31b9eb-504d-11e8-900c-4a00016942a0", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Let&nbsp;[$]F[/$] be a DF on&nbsp;[$]\\mathbb{R}[/$],&nbsp;[$]Q(x) := \\inf\\{t: F(t) \\geq x\\}, x \\in (0,1)[/$], its <i>quantile function</i>,&nbsp;[$]U\\sim U[0,1][/$]. {{c1::Then&nbsp;[$]X:=Q(U) \\sim F[/$].}}", 
+                "Prpn [2.47]"
+            ], 
+            "flags": 0, 
+            "guid": "HtW58YlwIP", 
+            "note_model_uuid": "9b31b9eb-504d-11e8-900c-4a00016942a0", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "{{c1::Any (measurable) function&nbsp;[$]S=S(X)[/$] of the observation&nbsp;[$]X[/$]}} is called a <i>statistic</i>&nbsp;in our sampling experiment.", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "rlb;RaF/S/", 
+            "note_model_uuid": "9b31b9eb-504d-11e8-900c-4a00016942a0", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "<i>Estimators</i>&nbsp;of the unknown parameter&nbsp;[$]\\theta[/$] are&nbsp;{{c1::<i>statistics</i>&nbsp;[$]\\theta^* = \\theta^* (X)[/$]}}.", 
+                "They are functions of the sample&nbsp;[$]X[/$] assuming values in the parameter space&nbsp;[$]\\Theta[/$]."
+            ], 
+            "flags": 0, 
+            "guid": "iX9n4B3Q_4", 
+            "note_model_uuid": "9b31b9eb-504d-11e8-900c-4a00016942a0", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "<i>Statistical tests</i>&nbsp;are&nbsp;{{c1::<i>statistics</i>&nbsp;[$]\\delta^* = \\delta^* (X)[/$]}}.", 
+                "Assuming values 1 and 0 when testing a single hypothesis&nbsp;[$]H_0[/$] vs alternative&nbsp;[$]H_1: \\delta^* = 1[/$] means that we reject&nbsp;[$]H_0[/$]."
+            ], 
+            "flags": 0, 
+            "guid": "M$|i~bkwnZ", 
+            "note_model_uuid": "9b31b9eb-504d-11e8-900c-4a00016942a0", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "A statistic&nbsp;[$]S=S(X)[/$] is called <i>sufficient</i>&nbsp;(SS) for parameter&nbsp;[$]\\theta[/$] if {{c1::the conditional distribution&nbsp;[$]P_\\theta (X \\in B|S)[/$] doesn't depend on [$]\\theta[/$].}}", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "HF::=<wOst", 
+            "note_model_uuid": "9b31b9eb-504d-11e8-900c-4a00016942a0", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Suppose all&nbsp;[$]P_{\\theta}[/$] are AC w.r.t. some measure&nbsp;[$]\\mu[/$], with densities&nbsp;[$]f_\\theta (<b>x</b>) = \\frac{d P_{\\theta}}{d\\mu} (<b>x</b>)[/$]. A necessary and sufficient condition for statistic&nbsp;[$]S[/$] to be an SS for [$]\\theta[/$] is that,&nbsp;{{c1::for some functions&nbsp;[$]\\varphi (s, \\theta)[/$] and&nbsp;[$]h(<b>x</b>)[/$],<div>[$]f_{\\theta} (<b>x</b>) = \\varphi(S(<b>x</b>),\\theta)h(<b>x</b>)[/$]</div>}}", 
+                "Thm [Neyman-Fisher (NF) factorisation.]"
+            ], 
+            "flags": 0, 
+            "guid": "J,s?XtUBP=", 
+            "note_model_uuid": "9b31b9eb-504d-11e8-900c-4a00016942a0", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "{{c1::[$]\\hat{\\theta}^* = \\hat{\\theta}^* (X) := \\text{argmax}_{\\theta \\in \\Theta} f_{\\theta} (X)[/$]}} is called the <i>maximum likelihood estimator</i>&nbsp;(MLE) of&nbsp;[$]\\theta[/$] from&nbsp;[$]X[/$].", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "fc2%4%X<_y", 
+            "note_model_uuid": "9b31b9eb-504d-11e8-900c-4a00016942a0", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "If&nbsp;[$]T[/$] is a statistic,&nbsp;[$]\\varphi[/$] a function, and&nbsp;[$]S := \\varphi(T)[/$] is an SS for&nbsp;[$]\\theta[/$], then&nbsp;{{c1::[$]T[/$] is also an SS for&nbsp;[$]\\theta[/$]}}.", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "o[ALbWBN!r", 
+            "note_model_uuid": "9b31b9eb-504d-11e8-900c-4a00016942a0", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "If&nbsp;[$]S[/$] is an SS for&nbsp;[$]\\theta[/$], then the MLE&nbsp;[$]\\theta^*[/$] {{c1::is a function of S only}}.", 
+                "No further information from the sample&nbsp;[$]X[/$] is needed."
+            ], 
+            "flags": 0, 
+            "guid": "u,E{@AXE!L", 
+            "note_model_uuid": "9b31b9eb-504d-11e8-900c-4a00016942a0", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "An estimator&nbsp;[$]\\theta_0^* = \\theta_0^* (X)[/$] from a class&nbsp;[$]\\mathcal{K}[/$] of estimators of&nbsp;[$]\\theta[/$] is called <i>efficient in&nbsp;</i>[$]\\mathcal{K}[/$] if,&nbsp;{{c1::for any&nbsp;[$]\\theta_0^* \\in \\mathcal{K}[/$],<div>[$]E_\\theta(\\theta_0^* - \\theta)^2 \\leq E_\\theta (\\theta^* - \\theta)^2, \\quad \\forall \\theta \\in \\Theta.[/$]</div>}}", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "c0VdX>7,2-", 
+            "note_model_uuid": "9b31b9eb-504d-11e8-900c-4a00016942a0", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Let&nbsp;[$]\\theta^* \\in \\mathcal{K}_b[/$],&nbsp;[$]S[/$] be a SS for&nbsp;[$]\\theta[/$]. Then the CE&nbsp;[$]\\theta_S^* := E_\\theta (\\theta^* | S)[/$] has the following properties:<br />{{c1::[$]\\theta_S^*[/$] is a function of S only (and hence is a statistic):<div>[$]\\theta_S^* \\in \\mathcal{K}_b[/$]</div><div>[$]E_\\theta()^2 \\leq E_\\theta ()^2, \\forall \\theta \\in \\Theta[/$], where [$]=[/$] holds iff [$]P_\\theta(\\theta_S^* = \\theta^*) = 1[/$].</div>}}", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "chjFvp*.;_", 
+            "note_model_uuid": "9b31b9eb-504d-11e8-900c-4a00016942a0", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Quadratic mean convergence:<div>{{c1::[$]E(X_n - X)^2 \\to 0[/$] as&nbsp;[$]n \\to \\infty[/$]}}.</div>", 
+                "Def. [5.3] This is convergence of elements of the space&nbsp;[$]L^2[/$] of square-integrable RVs in its \"native norm\"."
+            ], 
+            "flags": 0, 
+            "guid": "GJ:Ag&y`p|", 
+            "note_model_uuid": "9b31b9eb-504d-11e8-900c-4a00016942a0", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Convergence in mean:<div>{{c1::[$]E\\lvert X_n - X \\rvert \\to 0[/$] as&nbsp;[$]n \\to \\infty[/$]}}.</div>", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "sz+t>sb}GI", 
+            "note_model_uuid": "9b31b9eb-504d-11e8-900c-4a00016942a0", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Convergence in distribution:<div>{{c1::[$]\\lim_{n \\to \\infty} F_{X_n} (t) = F_X (t)[/$] at all points&nbsp;[$]t \\in \\mathbb{R}[/$] where&nbsp;[$]F_X (t)[/$] is continuous.}}</div>", 
+                "Doesn't care <i>where</i>&nbsp;and <i>how</i>&nbsp;the RVs are defined - only the distributions of&nbsp;[$]X_n[/$] matter."
+            ], 
+            "flags": 0, 
+            "guid": "cN4Kv_hP)6", 
+            "note_model_uuid": "9b31b9eb-504d-11e8-900c-4a00016942a0", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "{{c2::[$]X_n \\overset{d}{\\to} X[/$] as&nbsp;[$]n \\to \\infty[/$]}} iff&nbsp;{{c1::for any continuous bounded function&nbsp;[$]f[/$]<div>[$]E f(X_n) \\to E f(X)[/$] as&nbsp;[$]n \\to \\infty[/$].</div>}}", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "K626a.R9!V", 
+            "note_model_uuid": "9b31b9eb-504d-11e8-900c-4a00016942a0", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "[$]X_n \\overset{L^2}{\\longrightarrow} X[/$] as&nbsp;[$]n \\to \\infty[/$] if<div>{{c1::[$]E(X_n-X)^2 \\to 0[/$] as&nbsp;[$]n \\to \\infty[/$]}}</div>", 
+                "Def. [5.3] <i>Quadratic mean convergence</i>. This is convergence of elements of the space&nbsp;[$]L^2[/$] of square-integrable RVs in its \"native norm\"."
+            ], 
+            "flags": 0, 
+            "guid": "GwOlC(4IhV", 
+            "note_model_uuid": "9b31b9eb-504d-11e8-900c-4a00016942a0", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "[$]X_n \\overset{L^1}{\\longrightarrow} X[/$] as&nbsp;[$]n \\to \\infty[/$]<div>if&nbsp;{{c1::[$]E\\lvert X_n - X \\rvert \\to 0[/$] as&nbsp;[$]n \\to \\infty[/$].}}</div>", 
+                "Def. [5.4] <i>Convergence in mean</i>"
+            ], 
+            "flags": 0, 
+            "guid": "Ht^o<I=C_a", 
+            "note_model_uuid": "9b31b9eb-504d-11e8-900c-4a00016942a0", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "[$]X_n \\overset{d}{\\longrightarrow} X[/$] as&nbsp;[$]n \\to \\infty[/$]<div>if&nbsp;{{c1::[$]\\lim_{n\\to \\infty} F_{X_n} (t) = F_X(t)[/$] at all points&nbsp;[$]t \\in \\mathbb{R}[/$] where&nbsp;[$]F_X (t)[/$] is continuous.}}</div>", 
+                "Def. [5.5] <i>Convergence in distribution</i>. Continuity points are&nbsp;[$]t[/$] such that&nbsp;[$]F_X(t-) = F(t) \\Longleftrightarrow P(X = t) = 0[/$]."
+            ], 
+            "flags": 0, 
+            "guid": "df9q%_RkIr", 
+            "note_model_uuid": "9b31b9eb-504d-11e8-900c-4a00016942a0", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "[$]X_n \\overset{d}{\\longrightarrow}X[/$] as&nbsp;[$]n \\to \\infty[/$] <i style=\"font-weight: bold; \">iff</i>&nbsp;{{c1::for any continuous bounded function&nbsp;[$]f[/$]<div>[$]E f(X_n) \\to E f (X) \\quad as \\quad n\\to \\infty.[/$]</div>}}", 
+                "Thm [5.8] Alternative &amp; more natural definition of convergence in distribution"
+            ], 
+            "flags": 0, 
+            "guid": "&f$e[DCRM", 
+            "note_model_uuid": "9b31b9eb-504d-11e8-900c-4a00016942a0", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Let&nbsp;[$]g:\\mathbb{R} \\to \\mathbb{R}[/$] be a continuous function. Then, as&nbsp;[$]n \\to \\infty[/$],<div>{{c1::<div>a) if&nbsp;[$]X_n \\overset{a.s.}{\\longrightarrow} X[/$] then&nbsp;[$]g(X_n)&nbsp;\\overset{a.s.}{\\longrightarrow} g(X)[/$],</div><div>b) if&nbsp;[$]X_n \\overset{P}{\\longrightarrow} X[/$] then&nbsp;[$]g(X_n)&nbsp;\\overset{P}{\\longrightarrow} g(X)[/$],</div><div>c) if&nbsp;[$]X_n \\overset{D}{\\longrightarrow} X[/$] then&nbsp;[$]g(X_n)&nbsp;\\overset{D}{\\longrightarrow} g(X)[/$].</div>}}</div>", 
+                "<b>Thm [5.23]</b>&nbsp;This holds for RVecs in&nbsp;[$]\\mathbb{R}^d[/$] as well."
+            ], 
+            "flags": 0, 
+            "guid": "C[~5=2S.|N", 
+            "note_model_uuid": "9b31b9eb-504d-11e8-900c-4a00016942a0", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "<b>Uniform continuity</b>:&nbsp;{{c1::[$]\\forall \\varepsilon &gt; 0, \\exists \\delta &gt; 0[/$] s.t.<div>[$]x,y \\in [a,b], \\lvert x - y \\rvert \\leq \\delta \\quad \\Longrightarrow \\quad \\lvert g(x) - g(y) \\rvert &lt; \\varepsilon.[/$]</div>}}", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "i[Z+Ml=`vE", 
+            "note_model_uuid": "9b31b9eb-504d-11e8-900c-4a00016942a0", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Suppose&nbsp;[$]\\{X_n\\}[/$] is an i.i.d. sequence of&nbsp;[$]B(p)[/$]-RVs and let&nbsp;[$]S_n:=X_1+\\cdots+X_n[/$]. The Law of Large Numbers state that:<div>{{c1::<div>(Weak LLN.):&nbsp;[$]S_n / n \\overset{P}{\\longrightarrow} p \\; as \\; n\\to \\infty.[/$]</div><div>(Strong LLN.):&nbsp;[$]S_n / n \\overset{a.s.}{\\longrightarrow} p \\; as \\; n\\to \\infty.[/$]</div>}}</div>", 
+                "<b>Thm [5.30] &amp; Thm [5.31]</b>&nbsp;Recall that&nbsp;[$]S_n \\overset{d}{=}B(n,p).[/$]"
+            ], 
+            "flags": 0, 
+            "guid": "oRJ4T+.34j", 
+            "note_model_uuid": "9b31b9eb-504d-11e8-900c-4a00016942a0", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "The <i>characteristic function</i>&nbsp;of a random variable&nbsp;[$]X[/$] is&nbsp;{{c1::the function [$]\\varphi_X (t): \\mathbb{R} \\to \\mathbb{C}[/$] defined by<div>[$]\\varphi_X (t):= E[e^{itX}] = \\int_{-\\infty}^{\\infty} e^{itx} dF_X(x).[/$]</div>}}", 
+                "<b>Def [6.1]</b>"
+            ], 
+            "flags": 0, 
+            "guid": "D[|&!eZzTG", 
+            "note_model_uuid": "9b31b9eb-504d-11e8-900c-4a00016942a0", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "The ChF of distribution (or DF)&nbsp;[$]F[/$] is {{c1::the ChF of&nbsp;[$]X \\sim F[/$].}}", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "Fh3so<833L", 
+            "note_model_uuid": "9b31b9eb-504d-11e8-900c-4a00016942a0", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "[ChF of [$]Y[/$]] If&nbsp;[$]Y=aX+b[/$], where&nbsp;[$]a,b \\in \\mathbb{R}[/$] are constants, then&nbsp;{{c1::[$]\\varphi_Y(t)=e^{itb}\\varphi_X(at).}}[/$]", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "cg2[ioV_YS", 
+            "note_model_uuid": "9b31b9eb-504d-11e8-900c-4a00016942a0", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "[Properties of ChF] The characteristic function&nbsp;[$]\\varphi_X[/$] is {{c1::uniformly continuous and&nbsp;[$]\\varphi_X(-t) = \\bar{\\varphi_X(t)}[/$] for each&nbsp;[$]t[/$].}}", 
+                "<b>Prpn [6.2]</b>. ChF of a <i style=\"font-weight: bold; \">symmetric</i>&nbsp;RV&nbsp;[$]X[/$] is always <i style=\"font-weight: bold; \">real-valued</i>&nbsp;(converse true)."
+            ], 
+            "flags": 0, 
+            "guid": "FMf)r1Xiha", 
+            "note_model_uuid": "9b31b9eb-504d-11e8-900c-4a00016942a0", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "[ChF] If&nbsp;[$]X[/$] and&nbsp;[$]Y[/$] are independent, then<div>{{c1::[$]\\varphi_{X+Y} = \\varphi_X \\varphi_Y.[/$]}}</div>", 
+                "<b>Thm [6.4]</b>"
+            ], 
+            "flags": 0, 
+            "guid": "O7wew;INW=", 
+            "note_model_uuid": "9b31b9eb-504d-11e8-900c-4a00016942a0", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "[ChF] If&nbsp;[$]E[\\lvert X \\rvert^k]&lt;\\infty[/$], then&nbsp;{{c1::the derivative [$]\\varphi_X^{(k)}[/$] exists and<div>[$]E[X^k] = i^{-k} \\varphi_X^{(k)} (0).[/$]</div>}}", 
+                "<b>Thm [6.11]</b>"
+            ], 
+            "flags": 0, 
+            "guid": "ea=&eIxJ/o", 
+            "note_model_uuid": "9b31b9eb-504d-11e8-900c-4a00016942a0", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "[Inversion Formulae and Uniqueness] If&nbsp;[$]\\int \\lvert \\varphi_X (t) \\rvert dt &lt; \\infty[/$] then&nbsp;{{c1::[$]X[/$] has a <b style=\"font-style: italic; \">continuous</b>&nbsp;density given by<div>[$]f_X(x) = \\frac{1}{2 \\pi} \\int e^{-itx} \\varphi_X (t) dt.[/$]</div>}}", 
+                "<b>Thm [6.7]</b>"
+            ], 
+            "flags": 0, 
+            "guid": "bp8Q[WU}yz", 
+            "note_model_uuid": "9b31b9eb-504d-11e8-900c-4a00016942a0", 
+            "tags": []
+        }
+    ]
+}

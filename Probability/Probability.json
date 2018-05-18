@@ -16,7 +16,7 @@
                 "leechAction": 0, 
                 "leechFails": 8, 
                 "minInt": 1, 
-                "mult": 0.0
+                "mult": 0
             }, 
             "maxTaken": 60, 
             "name": "Default", 
@@ -32,8 +32,8 @@
                     4, 
                     7
                 ], 
-                "order": 1, 
-                "perDay": 20, 
+                "order": 0, 
+                "perDay": 50, 
                 "separate": true
             }, 
             "replayq": true, 
@@ -41,7 +41,7 @@
                 "bury": false, 
                 "ease4": 1.3, 
                 "fuzz": 0.05, 
-                "ivlFct": 1.0, 
+                "ivlFct": 1, 
                 "maxIvl": 36500, 
                 "minSpace": 1, 
                 "perDay": 200
@@ -60,7 +60,6 @@
         "latex-fdb331c2f8b3cfd0ff994be5b6698a8e4a2d3b78.png", 
         "latex-30c7ade533ca50450805ef550f483bbbf3cd74b8.png", 
         "latex-d81e97461f6ca7d1dd2df2a2df4f201d0f8c6c0e.png", 
-        "latex-08a1a084ad8bb2cd2c88d627b7312aa1a1b4220c.png", 
         "latex-63405adfa323cd12386536930115984575a36cf9.png", 
         "latex-36e1f0b25aa559de277275d77546a98f19c949ef.png", 
         "latex-f40c8273f0be47dee3d2671012eef83efae27516.png", 
@@ -69,7 +68,6 @@
         "latex-d75b360ba50e2e835d8b4b54189a95a4106662a2.png", 
         "latex-35a56bb9407b66cfca3e85f3ad8ace31e2b7a89c.png", 
         "latex-64a1cea048e95ca1a01ad4bfccf81f6478512980.png", 
-        "latex-cd17ba8e9302e4c79d6be64c6e1a253fa029a472.png", 
         "latex-81afd4d9ed1d8aaec4e1de264a387f00119d9008.png", 
         "latex-2e2e9df23c51d99b8c6792660a8a4e771f0e044a.png", 
         "latex-7405183beb13ad6c4d0917fc5094ef60b0d8dc4a.png", 
@@ -81,18 +79,17 @@
         "latex-18bdff904a98f85fc3298a58d4993b3bc5a56536.png", 
         "latex-6be80908d1e1699af9c65d1fe027153274f590a9.png", 
         "latex-1fa22bb7c9d1dd841d902a340f981aa1f10ddd2f.png", 
-        "latex-5d3788371f99e11555f91c356bf69755e347efd0.png", 
         "latex-4223fb3daf2f58119b1c7c9615cd10b69afc8175.png", 
-        "latex-7d9c37eef368088d8473ed53efcabe4a19564cc0.png", 
         "latex-fdcde49eadd5378ec975e7e8ccdfd2359bc91cb8.png", 
         "latex-bb2c93730dbb48558bb3c4738c956c4e8f816437.png", 
-        "latex-4efa9b68356af918af7647b3e01c926239bf8221.png", 
+        "latex-7d9c37eef368088d8473ed53efcabe4a19564cc0.png", 
         "latex-f7e58808226e2b75bbf291c4f55173b1f2ff50c3.png", 
         "latex-d2683645a6883421a7cb45bc71c87c4c989dddb7.png", 
         "latex-ba285e17d91fe83a9da78eae5b86420732889be7.png", 
         "latex-3a65eb4f003606f0f882b377571155eb64c1348d.png", 
         "latex-2554b6496c3b678897e9b060ef00aa9f0a7d7ece.png", 
         "latex-a5d47d5f91653529332a16a59503c6226ca87896.png", 
+        "latex-2598d521b3871f26ce70fb6466719348d03ff9fd.png", 
         "latex-5e4f6e75b521421a40a0f2f17dbd04313cd0c018.png", 
         "latex-a9d5d6fdd9d9241993574c879f1d6472326cc0a3.png", 
         "latex-48bb97d434ed10923b31178054fc265df6e2908b.png", 
@@ -107,11 +104,10 @@
         "latex-9ce18912d3c2f81d16a4eaec3960137f9aa21254.png", 
         "latex-655993f6ae78dbd0febcfe0d653494e6abff653f.png", 
         "latex-1f745cf4286f88b236750e1e9a8abe3dacd9dc39.png", 
-        "latex-e4ede6b052a805f258376c7298cf6d792d994b68.png", 
+        "latex-cd17ba8e9302e4c79d6be64c6e1a253fa029a472.png", 
         "latex-2d0581963f4dfd54d4d63727c762a5f69cf76ee3.png", 
         "latex-81a5687a5581cefcfadaeb52159bb9810e1c19c1.png", 
         "latex-8157a286ae5cf7a7e2e6b4848a1a3b2777c15140.png", 
-        "latex-d3deeefa3e44b37c76149c4246c55ed20e2d5159.png", 
         "latex-9e2b196e9b7e57d1ec99f6534c581ea9759d2170.png", 
         "latex-65e0fdb47b5148f78e6ff7080a13596b8ec5001d.png", 
         "latex-d0720fe089844e2ef9ced9bd91140053bb4f7153.png", 
@@ -126,6 +122,7 @@
         "latex-a321d1b883ba985b1f59ca076beaaf17aa8ab06c.png", 
         "latex-726ccfb2c06056fec2700ac077d48c3bc25862f2.png", 
         "latex-edc0f561ca6a4aaaddbb5a900380b77148fb18b9.png", 
+        "latex-fc4537aec7e54b249b42142047041d13fd7ed4c1.png", 
         "latex-57bbe48937b0012fda8febcd9cb95c0883045e10.png", 
         "latex-6feaa054644308841e840764e3979e51117d062e.png", 
         "latex-611ade1538e416642f0878c8ad5ddf8ef4ff1500.png", 
@@ -154,8 +151,10 @@
         "latex-e84412ee9199d5ae9fe84c5a330e4d657a2c5333.png", 
         "latex-fa47763b8d945126dd7fde384a73554015369eac.png", 
         "latex-292f7c7afadbf996ef82c871b3ed6faa8106a35d.png", 
+        "latex-c10ecd71c064b2c8d66de32da33942322d4141eb.png", 
         "latex-65b73befd984cb69593825e12ee6ccca0ba992b3.png", 
         "latex-ce58e4af225c93d08606c26554caaa5ae32edeba.png", 
+        "latex-cc1c37b8fe1fc981109fa644ee7025620ad38755.png", 
         "latex-3cd77111cbaaa6678c53edcf2c46b1a0d55646e5.png", 
         "latex-e2cd148226deb03525a60e485adc7a08ac4c97be.png", 
         "latex-311cabda3a9b09f0dde217303ca9d1cd9201dcf6.png", 
@@ -184,7 +183,6 @@
         "latex-2d8c833ed800824727cd7bd2fb9de1a12ad7e674.png", 
         "latex-e0d2bf360290fd61d1c1557e763f2622363b3d35.png", 
         "latex-2af022e5c8b6a45d147978a3b6714d1dab3d2a30.png", 
-        "latex-170ea5447d02d41f7ef4786220e7c5349d8931af.png", 
         "latex-921aade3100afbc11d0d13f71cdd7e68d83ad52e.png", 
         "latex-378d0792d9da0008a7c60cd534103bdf9de741c8.png", 
         "latex-038e25d693e971c4354cd34496894aba152a3f04.png", 
@@ -192,6 +190,7 @@
         "latex-6a47ca0fe7cb276abc022af6ac88ddae1a9d6894.png", 
         "latex-e5c001f7c8f92dedf816c01e000ad8612cec5f7c.png", 
         "latex-11983f155737dc5bf56e98ab8a1909773f70395b.png", 
+        "latex-270ceec5279946e845ecf0200b9f5f3dbe0c0310.png", 
         "latex-409182f8fba2076128e44a77ba979455c097fccb.png", 
         "latex-604957278a55647bc7b336dc5012fdb4780cbeba.png", 
         "latex-7df6156885f7ecb884a812ae7155a0ad3ea33684.png", 
@@ -227,49 +226,6 @@
             "latexPost": "\\end{document}", 
             "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n", 
             "name": "Cloze", 
-            "sortf": 0, 
-            "tags": [], 
-            "tmpls": [
-                {
-                    "afmt": "{{cloze:Text}}<br>\n{{Extra}}", 
-                    "bafmt": "", 
-                    "bqfmt": "", 
-                    "did": null, 
-                    "name": "Cloze", 
-                    "ord": 0, 
-                    "qfmt": "{{cloze:Text}}"
-                }
-            ], 
-            "type": 1, 
-            "vers": []
-        }, 
-        {
-            "__type__": "NoteModel", 
-            "crowdanki_uuid": "9b31b9eb-504d-11e8-900c-4a00016942a0", 
-            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n\n.cloze {\n font-weight: bold;\n color: blue;\n}\n.nightMode .cloze {\n color: lightblue;\n}\n\n.latex{\n zoom:9%;\n}", 
-            "flds": [
-                {
-                    "font": "Arial", 
-                    "media": [], 
-                    "name": "Text", 
-                    "ord": 0, 
-                    "rtl": false, 
-                    "size": 20, 
-                    "sticky": false
-                }, 
-                {
-                    "font": "Arial", 
-                    "media": [], 
-                    "name": "Extra", 
-                    "ord": 1, 
-                    "rtl": false, 
-                    "size": 20, 
-                    "sticky": false
-                }
-            ], 
-            "latexPost": "\\end{document}", 
-            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n", 
-            "name": "Cloze-c0040", 
             "sortf": 0, 
             "tags": [], 
             "tmpls": [
@@ -376,18 +332,6 @@
             "__type__": "Note", 
             "data": "", 
             "fields": [
-                "If&nbsp;{{c2::[$]\\sum_{n=1}^\\infty P(A_n) &lt; \\infty[/$]}}, then&nbsp;{{c1::[$]P(A_n, \\textrm{i.o.}) = 0[/$]}}.", 
-                "Borel-Cantelli Lemma [Thm 1.27]"
-            ], 
-            "flags": 0, 
-            "guid": "wUc4So<2UC", 
-            "note_model_uuid": "5cb874eb-5059-11e8-9b6f-a45e60bab84d", 
-            "tags": []
-        }, 
-        {
-            "__type__": "Note", 
-            "data": "", 
-            "fields": [
                 "An RV is a function&nbsp;{{c1::[$]X=X(\\omega): \\Omega \\to \\mathbb{R}[/$] s.t., for any&nbsp;[$]B \\in \\mathcal{B} (\\mathbb{R})[/$],<div>[$]X^{-1}(B) := \\{\\omega \\in \\Omega: X(\\omega) \\in B\\} \\in \\mathcal{F}[/$].</div>}}", 
                 "Def [2.3]. Such functions are called <i>measurable</i>; shorthand: [$]\\{X \\in B\\}[/$]."
             ], 
@@ -436,7 +380,7 @@
             "__type__": "Note", 
             "data": "", 
             "fields": [
-                "Let&nbsp;[$]F[/$] be a DF on&nbsp;[$]\\mathbb{R}[/$],&nbsp;[$]Q(x) := \\inf\\{t: F(t) \\geq x\\}, x \\in (0,1)[/$], its <i>quantile function</i>,&nbsp;[$]U\\sim U[0,1][/$]. {{c1::Then&nbsp;[$]X:=Q(U) \\sim F[/$].}}", 
+                "Let&nbsp;[$]F[/$] be a DF on&nbsp;[$]\\mathbb{R}[/$],&nbsp;<div>[$]Q(x) := \\inf\\{t: F(t) \\geq x\\}, x \\in (0,1)[/$] its <i>quantile function</i>,&nbsp;</div><div>[$]U\\sim U[0,1][/$].&nbsp;</div><div>{{c1::Then&nbsp;[$]X:=Q(U) \\sim F[/$].}}</div>", 
                 "Prpn [2.47]"
             ], 
             "flags": 0, 
@@ -484,7 +428,7 @@
             "__type__": "Note", 
             "data": "", 
             "fields": [
-                "A statistic&nbsp;[$]S=S(X)[/$] is called <i>sufficient</i>&nbsp;(SS) for parameter&nbsp;[$]\\theta[/$] if {{c1::the conditional distribution&nbsp;[$]P_\\theta (X \\in B|S)[/$] doesn't depend on [$]\\theta[/$].}}", 
+                "A statistic&nbsp;[$]S=S(X)[/$] is called <i>sufficient</i>&nbsp;(SS) for parameter&nbsp;[$]\\theta[/$] if&nbsp;<div>{{c1::the conditional distribution&nbsp;[$]P_\\theta (X \\in B|S)[/$] doesn't depend on [$]\\theta[/$].}}</div>", 
                 ""
             ], 
             "flags": 0, 
@@ -544,7 +488,7 @@
             "__type__": "Note", 
             "data": "", 
             "fields": [
-                "An estimator&nbsp;[$]\\theta_0^* = \\theta_0^* (X)[/$] from a class&nbsp;[$]\\mathcal{K}[/$] of estimators of&nbsp;[$]\\theta[/$] is called <i>efficient in&nbsp;</i>[$]\\mathcal{K}[/$] if,&nbsp;{{c1::for any&nbsp;[$]\\theta_0^* \\in \\mathcal{K}[/$],<div>[$]E_\\theta(\\theta_0^* - \\theta)^2 \\leq E_\\theta (\\theta^* - \\theta)^2, \\quad \\forall \\theta \\in \\Theta.[/$]</div>}}", 
+                "An estimator&nbsp;[$]\\theta_0^* = \\theta_0^* (X)[/$] from a class&nbsp;[$]\\mathcal{K}[/$] of estimators of&nbsp;[$]\\theta[/$] is called <i>efficient in&nbsp;</i>[$]\\mathcal{K}[/$] if,&nbsp;<div>{{c1::for any&nbsp;[$]\\theta^* \\in \\mathcal{K}[/$],<div>[$]E_\\theta(\\theta_0^* - \\theta)^2 \\leq E_\\theta (\\theta^* - \\theta)^2, \\quad \\forall \\theta \\in \\Theta.[/$]</div>}}</div>", 
                 ""
             ], 
             "flags": 0, 
@@ -617,7 +561,7 @@
             "data": "", 
             "fields": [
                 "[$]X_n \\overset{L^2}{\\longrightarrow} X[/$] as&nbsp;[$]n \\to \\infty[/$] if<div>{{c1::[$]E(X_n-X)^2 \\to 0[/$] as&nbsp;[$]n \\to \\infty[/$]}}</div>", 
-                "Def. [5.3] <i>Quadratic mean convergence</i>. This is convergence of elements of the space&nbsp;[$]L^2[/$] of square-integrable RVs in its \"native norm\"."
+                "Def. [5.3] <i>Quadratic mean convergence</i>.&nbsp;<div>This is convergence of elements of the space&nbsp;[$]L^2[/$] of square-integrable RVs in its \"native norm\".</div>"
             ], 
             "flags": 0, 
             "guid": "GwOlC(4IhV", 
@@ -724,7 +668,7 @@
             "__type__": "Note", 
             "data": "", 
             "fields": [
-                "[ChF of [$]Y[/$]] If&nbsp;[$]Y=aX+b[/$], where&nbsp;[$]a,b \\in \\mathbb{R}[/$] are constants, then&nbsp;{{c1::[$]\\varphi_Y(t)=e^{itb}\\varphi_X(at).}}[/$]", 
+                "[ChF of [$]Y[/$]] If&nbsp;[$]Y=aX+b[/$], where&nbsp;[$]a,b \\in \\mathbb{R}[/$] are constants, then&nbsp;{{c1::[$]\\varphi_Y(t)=e^{itb}\\varphi_X(at).[/$]}}", 
                 ""
             ], 
             "flags": 0, 
@@ -736,7 +680,7 @@
             "__type__": "Note", 
             "data": "", 
             "fields": [
-                "[Properties of ChF] The characteristic function&nbsp;[$]\\varphi_X[/$] is {{c1::uniformly continuous and&nbsp;[$]\\varphi_X(-t) = \\bar{\\varphi_X(t)}[/$] for each&nbsp;[$]t[/$].}}", 
+                "[Properties of ChF] The characteristic function&nbsp;[$]\\varphi_X[/$] is {{c1::uniformly continuous and&nbsp;[$]\\varphi_X(-t) = \\overline{\\varphi_X(t)}[/$] for each&nbsp;[$]t[/$].}}", 
                 "<b>Prpn [6.2]</b>. ChF of a <i style=\"font-weight: bold; \">symmetric</i>&nbsp;RV&nbsp;[$]X[/$] is always <i style=\"font-weight: bold; \">real-valued</i>&nbsp;(converse true)."
             ], 
             "flags": 0, 
@@ -789,7 +733,7 @@
             ], 
             "flags": 0, 
             "guid": "vNFNw<Mz?{", 
-            "note_model_uuid": "9b31b9eb-504d-11e8-900c-4a00016942a0", 
+            "note_model_uuid": "5cb874eb-5059-11e8-9b6f-a45e60bab84d", 
             "tags": []
         }, 
         {
@@ -801,19 +745,19 @@
             ], 
             "flags": 0, 
             "guid": "t:?K9RD8yP", 
-            "note_model_uuid": "9b31b9eb-504d-11e8-900c-4a00016942a0", 
+            "note_model_uuid": "5cb874eb-5059-11e8-9b6f-a45e60bab84d", 
             "tags": []
         }, 
         {
             "__type__": "Note", 
             "data": "", 
             "fields": [
-                "The <i>point mass</i>(degenerate distribution) at (a fixed point) [$]\\omega \\in \\Omega :[/$]&nbsp;<div>{{c1::[$]\\varepsilon_\\omega (A) := \\mathbf{1}_A (\\omega )[/$]}}</div>", 
+                "The <i>point mass&nbsp;</i>(degenerate distribution) at (a fixed point) [$]\\omega \\in \\Omega :[/$]&nbsp;<div>{{c1::[$]\\varepsilon_\\omega (A) := \\mathbf{1}_A (\\omega )[/$]}}</div>", 
                 ""
             ], 
             "flags": 0, 
             "guid": "y>KO>i]:x&", 
-            "note_model_uuid": "9b31b9eb-504d-11e8-900c-4a00016942a0", 
+            "note_model_uuid": "5cb874eb-5059-11e8-9b6f-a45e60bab84d", 
             "tags": []
         }, 
         {
@@ -825,7 +769,7 @@
             ], 
             "flags": 0, 
             "guid": "n_D(Oy+*@n", 
-            "note_model_uuid": "9b31b9eb-504d-11e8-900c-4a00016942a0", 
+            "note_model_uuid": "5cb874eb-5059-11e8-9b6f-a45e60bab84d", 
             "tags": []
         }, 
         {
@@ -856,7 +800,7 @@
             "__type__": "Note", 
             "data": "", 
             "fields": [
-                "For an <b>arbitrary</b>&nbsp;RV&nbsp;[$]X \\geq 0[/$], we put<div>{{c1::[$]EX := \\lim_{n \\to \\infty}[/$]}}</div><div>where&nbsp;[$]X_n /geq 0[/$] are <b>simple</b> RVs s.t.&nbsp;[$]\\forall \\omega \\in \\Omaga, X_{n}(\\omega) \\uparrow X(\\omega) as n \\to \\infty[/$]</div>", 
+                "For an <b>arbitrary</b>&nbsp;RV&nbsp;[$]X \\geq 0[/$], we put<div>{{c1::[$]EX := \\lim_{n \\to \\infty} X_n[/$]}}</div><div>where&nbsp;[$]X_n \\geq 0[/$] are <b>simple</b> RVs s.t.&nbsp;[$]\\forall \\omega \\in \\Omega, X_{n}(\\omega) \\uparrow X(\\omega)[/$] as [$]n \\to \\infty[/$]</div>", 
                 "Def [4.4]"
             ], 
             "flags": 0, 
